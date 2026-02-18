@@ -55,8 +55,6 @@ With experience in **channel development**, **strategic alliances**, and **sales
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :---: |
-| [**C-Piscine**](https://github.com/ajcrod17/42-C_Piscine) | 42 School 4-week intensive bootcamp mastering C and Unix fundamentals | <img src="https://iconic-api.onrender.com/light/c" width="24" /> |
-| [**Piscine-Reloaded**](https://github.com/ajcrod17/42-Piscine_Reloaded) | School 42 - The Ultimate Foundation Check — Master the Essentials Before Advanced Topics | <img src="https://iconic-api.onrender.com/light/c" width="24" /> |
 | [**A-Maze-ing**](https://github.com/ajcrod17/A-Maze-ing) | Configurable maze generation and solution tool with multiple algorithms | <img src="https://iconic-api.onrender.com/light/python" width="24" /> |
 | [**Python-Piscine**](https://github.com/ajcrod17/42-Python-Piscine) | Comprehensive Python curriculum (M00-M10) covering fundamentals through advanced functional programming | <img src="https://iconic-api.onrender.com/light/python" width="24" /> |
 | [**Printf**](https://github.com/ajcrod17/42-printf) | Custom implementation of C library printf() with format specifiers | <img src="https://iconic-api.onrender.com/light/c" width="24" /> |
@@ -64,6 +62,8 @@ With experience in **channel development**, **strategic alliances**, and **sales
 | [**Get_next_line**](https://github.com/ajcrod17/42-Get_next_line) | Function to read one line at a time from file descriptor with arbitrary buffer sizes | <img src="https://iconic-api.onrender.com/light/c" width="24" /> |
 | [**Born2beroot**](https://github.com/ajcrod17/42-Born2beroot) | System administration project - Debian virtual machine configuration with strict security rules | <img src="https://iconic-api.onrender.com/light/bash" width="24" /> |
 | [**Libft**](https://github.com/ajcrod17/42-libft) | Reimplementation of essential C standard library functions | <img src="https://iconic-api.onrender.com/light/c" width="24" /> |
+| [**Piscine-Reloaded**](https://github.com/ajcrod17/42-Piscine_Reloaded) | School 42 - The Ultimate Foundation Check — Master the Essentials Before Advanced Topics | <img src="https://iconic-api.onrender.com/light/c" width="24" /> |
+| [**C-Piscine**](https://github.com/ajcrod17/42-C_Piscine) | 42 School 4-week intensive bootcamp mastering C and Unix fundamentals | <img src="https://iconic-api.onrender.com/light/c" width="24" /> |
 
 </div>
 
