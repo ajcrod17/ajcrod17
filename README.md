@@ -4,7 +4,7 @@
 
 An **Electronic and Computer Systems Engineer** turned **Software Developer** with a proven track record in **Business Development** and **Sales** within the **Telecoms Industry**.
 
-My journey has been **uniquely multidisciplinary**: from designing and optimizing computer systems, to developing robust software solutions, to driving business growth and strategic partnerships in the tech and telecom sectors. This rare combination allows me to bridge the gap between **technical innovation** and **commercial success**, translating complex technical solutions into value propositions that resonate with clients and stakeholders.
+My journey has been **uniquely multidisciplinary**: from designing and optimizing computer systems, to driving business growth and strategic partnerships in the tech and telecom sectors, to developing robust software solutions. This rare combination allows me to bridge the gap between **technical innovation** and **commercial success**, translating complex technical solutions into value propositions that resonate with clients and stakeholders.
 
 With experience in **channel development**, **strategic alliances**, and **sales pipeline growth**, I leverage my engineering mindset to build not just efficient code, but also sustainable business relationships and go-to-market strategies.
 
