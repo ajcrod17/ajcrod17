@@ -17,7 +17,7 @@ With experience in **channel development**, **strategic alliances**, and **sales
 
 <br>
 
-🔧 **Learning**: System design, software architecture, full-stack development  
+🔧 **Learning**: System design, software architecture, full-stack development, AI
 📊 **Business Development**: Channel management, strategic partnerships, sales pipeline growth  
 📡 **Telecom Industry**: IT solutions, managed services, systems integration, telecom infrastructure  
 🤝 **Key Strengths**: Translating technical capabilities into business value, client relationship management, team leadership
