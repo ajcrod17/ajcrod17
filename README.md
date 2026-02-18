@@ -35,7 +35,7 @@ With experience in **channel development**, **strategic alliances**, and **sales
 <img src="https://iconic-api.onrender.com/dark/c" width="64" alt="C" title="C" />
 
 <h3>Tools & Platforms</h3>
-<img src="https://iconic-api.onrender.com/dark/git" width="64" alt="Git" title="Git" /> 
+<img src="https://iconic-api.onrender.com/dark/git" width="64" alt="Git" title="Git" />  
 &nbsp;&nbsp;
 <img src="https://iconic-api.onrender.com/dark/linux" width="64" alt="Linux" title="Linux" />
 &nbsp;&nbsp;
@@ -49,15 +49,18 @@ With experience in **channel development**, **strategic alliances**, and **sales
 
 </div>
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">🚀 Featured Projects from 42 School</h2>
 
 <div align="center">
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :---: |
-| [**Project Name 1**](https://github.com/ajcrod17/project-1) | Brief description of your project | ![Tech Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [**Project Name 2**](https://github.com/ajcrod17/project-2) | Brief description of your project | ![Tech Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| [**Project Name 3**](https://github.com/ajcrod17/project-3) | Brief description of your project | ![Tech Badge](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) |
+| [**Python-Piscine**](https://github.com/ajcrod17/42-Python-Piscine) | Comprehensive Python curriculum (M00-M10) covering fundamentals through advanced functional programming | <img src="https://iconic-api.onrender.com/light/python" width="24" /> |
+| [**A-Maze-ing**](https://github.com/ajcrod17/A-Maze-ing) | Configurable maze generation and solution tool with multiple algorithms | <img src="https://iconic-api.onrender.com/light/python" width="24" /> |
+| [**Push_Swap**](https://github.com/ajcrod17/42-push_swap) | Sorting algorithm with restricted stack operations using Turk Sort algorithm | <img src="https://iconic-api.onrender.com/light/c" width="24" /> |
+| [**Printf**](https://github.com/ajcrod17/42-printf) | Custom implementation of C library printf() with format specifiers | <img src="https://iconic-api.onrender.com/light/c" width="24" /> |
+| [**Get_next_line**](https://github.com/ajcrod17/42-Get_next_line) | Function to read one line at a time from file descriptor with arbitrary buffer sizes | <img src="https://iconic-api.onrender.com/light/c" width="24" /> |
+| [**Libft**](https://github.com/ajcrod17/42-libft) | Reimplementation of essential C standard library functions | <img src="https://iconic-api.onrender.com/light/c" width="24" /> |
 
 </div>
 
