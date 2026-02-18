@@ -1,4 +1,4 @@
-## ⚡ From Circuits to Code to Commerce 💼
+## ⚡ From Circuits to Sales to Code 💼
 
 ### Hi, I'm Alex!
 
@@ -68,5 +68,5 @@ With experience in **channel development**, **strategic alliances**, and **sales
 <h2 align="center">📍 Let's Connect</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/alexandre-rodrigues-960294/" target="_blank"><img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/master/public/logos/social%20media/linkedin/linkedin-horizontal.svg" height="20" alt="LinkedIn" /></a>&nbsp;&nbsp;
-  <a href="mailto:your-email@example.com"><img src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/technology/gmail/gmail-horizontal.svg" height="20" alt="Email" /></a>&nbsp;&nbsp;
+  <a href="mailto:ajcrodrigues@gmail.com"><img src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/technology/gmail/gmail-horizontal.svg" height="20" alt="Email" /></a>&nbsp;&nbsp;
 </div>
