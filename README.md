@@ -56,6 +56,7 @@ With experience in **channel development**, **strategic alliances**, and **sales
 | Project | Description | Tech Stack |
 | :--- | :--- | :---: |
 | [**A-Maze-ing**](https://github.com/ajcrod17/A-Maze-ing) | Configurable maze generation and solution tool with multiple algorithms | <img src="https://iconic-api.onrender.com/light/python" width="24" /> |
+| [**Fly-in**](https://github.com/ajcrod17/Fly-in) | Flight booking and travel planning project (42 School) | <img src="https://iconic-api.onrender.com/light/python" width="24" /> |
 | [**Python-Piscine**](https://github.com/ajcrod17/42-Python-Piscine) | Comprehensive Python curriculum (M00-M10) covering fundamentals through advanced functional programming | <img src="https://iconic-api.onrender.com/light/python" width="24" /> |
 | [**Printf**](https://github.com/ajcrod17/42-printf) | Custom implementation of C library printf() with format specifiers | <img src="https://iconic-api.onrender.com/light/c" width="24" /> |
 | [**Push_Swap**](https://github.com/ajcrod17/42-push_swap) | Sorting algorithm with restricted stack operations using Turk Sort algorithm | <img src="https://iconic-api.onrender.com/light/c" width="24" /> |
