@@ -55,7 +55,7 @@ With experience in **channel development**, **strategic alliances**, and **sales
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :---: |
-| NetPractice        | Analysis and correction of TCP/IP network routing issues to apply practical networking and problem-solving skills. | <img src="https://iconic-api.onrender.com/light/c" width="24" /> |
+| [**NetPractice**](https://github.com/ajcrod17/NetPractice.git) | Analysis and correction of TCP/IP network routing issues to apply practical networking and problem-solving skills. | <img src="https://iconic-api.onrender.com/light/c" width="24" /> |
 | [**Call_Me_Maybe**](https://github.com/ajcrod17/Call_Me_Maybe) | Function Calling with LLMs and Constrained Decoding | <img src="https://iconic-api.onrender.com/light/python" width="24" /> |
 | [**Codexion**](https://github.com/ajcrod17/Codexion) | multithreaded C simulation where coder threads compete for shared dongles under timing constraints | <img src="https://iconic-api.onrender.com/light/c" width="24" /> |
 | [**Fly-in**](https://github.com/ajcrod17/Fly-in) | Drone routing and simulation project | <img src="https://iconic-api.onrender.com/light/python" width="24" /> |
