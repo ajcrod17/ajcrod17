@@ -55,6 +55,7 @@ With experience in **channel development**, **strategic alliances**, and **sales
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :---: |
+| [**RAG against the machine**](https://git@github.com:ajcrod17/RAG.git) | Retrieval-Augmented Generation system that answers questions about codebases by retrieving relevant information and generating evidence-based responses, implementing intelligent chunking, efficient retrieval (TF-IDF/BM25) | <img src="https://iconic-api.onrender.com/light/python" width="24" /> |
 | [**NetPractice**](https://github.com/ajcrod17/NetPractice.git) | Analysis and correction of TCP/IP network routing issues to apply practical networking and problem-solving skills. | <img src="https://iconic-api.onrender.com/light/bash" width="24)" /> |
 | [**Call_Me_Maybe**](https://github.com/ajcrod17/Call_Me_Maybe) | Function Calling with LLMs and Constrained Decoding | <img src="https://iconic-api.onrender.com/light/python" width="24" /> |
 | [**Codexion**](https://github.com/ajcrod17/Codexion) | multithreaded C simulation where coder threads compete for shared dongles under timing constraints | <img src="https://iconic-api.onrender.com/light/c" width="24" /> |
