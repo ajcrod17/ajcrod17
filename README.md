@@ -34,10 +34,10 @@
 
 ---
 
-### 📊 Language & GitHub Distribution
+### 📊 Language & GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajcrod17&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ajcrod17&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
@@ -49,7 +49,7 @@
 
 * Implements agentic workflows leveraging LLM tool-calling, autonomous diagnostics, and containerized microservices.
 * Containerized multi-service environment utilizing Docker Compose for reproducible pipeline execution and documentation benchmarks.
-* **Stack:** `Python` `LLM Tooling` `Docker` `MCP` `Microservices`
+* **Stack:** <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/MCP-Agent-4B0082?style=flat-square" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Microservices-555555?style=flat-square" />
 
 <br>
 
@@ -58,7 +58,7 @@
 
 * Developed intelligent semantic and AST chunking pipelines to ingest enterprise source trees.
 * Combined TF-IDF, BM25, and dense vector similarity algorithms to provide high-precision context retrieval with minimized hallucination.
-* **Stack:** `Python` `RAG` `Information Retrieval` `Vector Search` `LLMs`
+* **Stack:** <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/RAG-Pipeline-FF6F00?style=flat-square" /> <img src="https://img.shields.io/badge/Vector%20Search-008080?style=flat-square" /> <img src="https://img.shields.io/badge/LLMs-8A2BE2?style=flat-square" />
 
 <br>
 
@@ -67,7 +67,7 @@
 
 * Orchestrated isolated services (Nginx TLSv1.2/v1.3, WordPress via php-fpm, MariaDB) inside dedicated alpine containers without automated Compose packs.
 * Implemented volume bindings, secret mounts, internal networking rules, and restart automation via Makefiles.
-* **Stack:** `Docker` `Docker Compose` `Nginx` `MariaDB` `Debian / Alpine` `Bash`
+* **Stack:** <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" /> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
 
 <br>
 
@@ -76,7 +76,7 @@
 
 * Implemented custom schema extraction and constrained decoding routines to force open-source local LLMs to adhere strictly to JSON-schema function definitions.
 * Eliminates structural hallucination at the token sampling level for reliable automation pipelines.
-* **Stack:** `Python` `Constrained Decoding` `Local LLMs` `JSON Schema` `Inference`
+* **Stack:** <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Local%20LLMs-8A2BE2?style=flat-square" /> <img src="https://img.shields.io/badge/Constrained%20Decoding-4B0082?style=flat-square" /> <img src="https://img.shields.io/badge/JSON%20Schema-008080?style=flat-square" />
 
 ---
 
@@ -84,18 +84,18 @@
 
 | Project | Description | Primary Stack |
 | :--- | :--- | :---: |
-| [**Pacman**](https://github.com/ajcrod17/Pacman.git) | Team recreation of classic arcade Pac-Man focusing on modular OOP architecture. | `Python` |
-| [**Codexion**](https://github.com/ajcrod17/Codexion) | Multithreaded synchronization simulation managing shared resources under timing deadlines. | `C` `POSIX Threads` |
-| [**Fly-in**](https://github.com/ajcrod17/Fly-in) | Autonomous drone routing, spatial pathfinding, and collision simulation. | `Python` |
-| [**A-Maze-ing**](https://github.com/ajcrod17/A-Maze-ing) | Algorithmic maze generation and automated path traversal toolkit. | `Python` |
-| [**NetPractice**](https://github.com/ajcrod17/NetPractice.git) | Subnetting, routing tables, and TCP/IP network topology troubleshooting. | `Networking` |
-| [**Push_Swap**](https://github.com/ajcrod17/42-push_swap) | Algorithmic stack sorting using optimized Turk sort and restricted operations. | `C` `Algorithms` |
-| [**Get_next_line**](https://github.com/ajcrod17/42-Get_next_line) | Dynamic buffer-based line reading from arbitrary Unix file descriptors. | `C` `Memory Mgmt` |
-| [**Printf**](https://github.com/ajcrod17/42-printf) | Reimplementation of the standard C library `printf` supporting format flags. | `C` |
-| [**Born2beroot**](https://github.com/ajcrod17/Born2beroot) | Hardened Debian server deployment with AppArmor, LVM partitions, and SSH rules. | `SysAdmin` `Bash` |
-| [**Libft**](https://github.com/ajcrod17/42-libft) | Foundational C library containing core memory, string, and linked-list data structures. | `C` |
-| [**Python-Piscine**](https://github.com/ajcrod17/42-Python-Piscine) | Intensive Python curriculum covering lambdas, generators, and data processing. | `Python` |
-| [**C-Piscine**](https://github.com/ajcrod17/42-C_Piscine) | Rigorous bootcamp covering standard Unix system routines, pointers, and memory layout. | `C` `Unix` |
+| [**Pacman**](https://github.com/ajcrod17/Pacman.git) | Team recreation of classic arcade Pac-Man focusing on modular OOP architecture. | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> |
+| [**Codexion**](https://github.com/ajcrod17/Codexion) | Multithreaded synchronization simulation managing shared resources under timing deadlines. | <img src="https://img.shields.io/badge/C-POSIX%20Threads-A8B9CC?style=flat-square&logo=c&logoColor=white" /> |
+| [**Fly-in**](https://github.com/ajcrod17/Fly-in) | Autonomous drone routing, spatial pathfinding, and collision simulation. | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> |
+| [**A-Maze-ing**](https://github.com/ajcrod17/A-Maze-ing) | Algorithmic maze generation and automated path traversal toolkit. | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> |
+| [**NetPractice**](https://github.com/ajcrod17/NetPractice.git) | Subnetting, routing tables, and TCP/IP network topology troubleshooting. | <img src="https://img.shields.io/badge/Networking-TCP%2FIP-blue?style=flat-square" /> |
+| [**Push_Swap**](https://github.com/ajcrod17/42-push_swap) | Algorithmic stack sorting using optimized Turk sort and restricted operations. | <img src="https://img.shields.io/badge/C-Algorithms-A8B9CC?style=flat-square&logo=c&logoColor=white" /> |
+| [**Get_next_line**](https://github.com/ajcrod17/42-Get_next_line) | Dynamic buffer-based line reading from arbitrary Unix file descriptors. | <img src="https://img.shields.io/badge/C-Memory%20Mgmt-A8B9CC?style=flat-square&logo=c&logoColor=white" /> |
+| [**Printf**](https://github.com/ajcrod17/42-printf) | Reimplementation of the standard C library `printf` supporting format flags. | <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" /> |
+| [**Born2beroot**](https://github.com/ajcrod17/Born2beroot) | Hardened Debian server deployment with AppArmor, LVM partitions, and SSH rules. | <img src="https://img.shields.io/badge/SysAdmin-Debian-D70A53?style=flat-square&logo=debian&logoColor=white" /> |
+| [**Libft**](https://github.com/ajcrod17/42-libft) | Foundational C library containing core memory, string, and linked-list data structures. | <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" /> |
+| [**Python-Piscine**](https://github.com/ajcrod17/42-Python-Piscine) | Intensive Python curriculum covering lambdas, generators, and data processing. | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> |
+| [**C-Piscine**](https://github.com/ajcrod17/42-C_Piscine) | Rigorous bootcamp covering standard Unix system routines, pointers, and memory layout. | <img src="https://img.shields.io/badge/C-Unix-A8B9CC?style=flat-square&logo=c&logoColor=white" /> |
 
 ---
 
