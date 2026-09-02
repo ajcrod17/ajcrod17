@@ -27,7 +27,7 @@
 | :--- | :--- |
 | **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" /> |
 | **Artificial Intelligence** | <img src="https://img.shields.io/badge/LLMs-Constrained%20Decoding-8A2BE2?style=flat-square" /> <img src="https://img.shields.io/badge/RAG-Vector%20Search-FF6F00?style=flat-square" /> <img src="https://img.shields.io/badge/MCP-Protocol-4B0082?style=flat-square" /> <img src="https://img.shields.io/badge/Function%20Calling-008080?style=flat-square" /> |
-| **Backend & Platforms** | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> |
+| **Backend & Platforms** | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" /> |
 | **Tools & Environment** | <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Make-000000?style=flat-square&logo=gnu&logoColor=white" /> |
 
 </div>
@@ -44,12 +44,21 @@
 
 ### 🌟 Highlighted Projects
 
+#### 🤖 [Agent_Smith](https://github.com/ajcrod17/Agent_Smith)
+> Autonomous AI coding agent and evaluation engine built for sandboxed execution and algorithmic benchmarking.
+
+* Implemented isolated containerized execution sandboxes to securely execute and validate agent-generated Python code under real-time constraints.
+* Engineered automated benchmarking tooling integrating datasets like **MBPP** (Mostly Basic Python Problems) and **SWE-bench** to evaluate code synthesis reliability.
+* **Stack:** <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/AI%20Agents-8A2BE2?style=flat-square" /> <img src="https://img.shields.io/badge/Docker%20Sandbox-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/SWE--bench-008080?style=flat-square" />
+
+<br>
+
 #### 🚀 [AstroTriage](https://github.com/ajcrod17/AstroTriage)
 > Intelligent triage and multi-agent incident orchestration system designed for automated log diagnosis and root-cause analysis.
 
 * Implements agentic workflows leveraging LLM tool-calling, autonomous diagnostics, and containerized microservices.
 * Containerized multi-service environment utilizing Docker Compose for reproducible pipeline execution and documentation benchmarks.
-* **Stack:** <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/MCP-Agent-4B0082?style=flat-square" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Microservices-555555?style=flat-square" />
+* **Stack:** <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/SQLModel-4479A1?style=flat-square" /> <img src="https://img.shields.io/badge/MCP-Agent-4B0082?style=flat-square" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 
 <br>
 
@@ -71,7 +80,7 @@
 
 <br>
 
-#### 🤖 [Call_Me_Maybe](https://github.com/ajcrod17/Call_Me_Maybe)
+#### ⚡ [Call_Me_Maybe](https://github.com/ajcrod17/Call_Me_Maybe)
 > High-precision LLM function calling framework utilizing constrained grammar decoding.
 
 * Implemented custom schema extraction and constrained decoding routines to force open-source local LLMs to adhere strictly to JSON-schema function definitions.
@@ -84,9 +93,10 @@
 
 | Project | Description | Primary Stack |
 | :--- | :--- | :---: |
-| [**Pacman**](https://github.com/ajcrod17/Pacman.git) | Team recreation of classic arcade Pac-Man focusing on modular OOP architecture. | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> |
+| [**TAP**](https://github.com/ajcrod17/TAP) | Text-based Adventure Platform with interactive graphical client, live world dispatch, and inventory system. | <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/GUI-Fyne-4EAA25?style=flat-square" /> |
+| [**Pacman**](https://github.com/ajcrod17/Pacman.git) | Team recreation of classic arcade Pac-Man focusing on modular OOP architecture. | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Pygame-FF69B4?style=flat-square" /> |
 | [**Codexion**](https://github.com/ajcrod17/Codexion) | Multithreaded synchronization simulation managing shared resources under timing deadlines. | <img src="https://img.shields.io/badge/C-POSIX%20Threads-A8B9CC?style=flat-square&logo=c&logoColor=white" /> |
-| [**Fly-in**](https://github.com/ajcrod17/Fly-in) | Autonomous drone routing, spatial pathfinding, and collision simulation. | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> |
+| [**Fly-in**](https://github.com/ajcrod17/Fly-in) | Autonomous drone routing, spatial pathfinding, and collision simulation. | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Pygame-FF69B4?style=flat-square" /> |
 | [**A-Maze-ing**](https://github.com/ajcrod17/A-Maze-ing) | Algorithmic maze generation and automated path traversal toolkit. | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> |
 | [**NetPractice**](https://github.com/ajcrod17/NetPractice.git) | Subnetting, routing tables, and TCP/IP network topology troubleshooting. | <img src="https://img.shields.io/badge/Networking-TCP%2FIP-blue?style=flat-square" /> |
 | [**Push_Swap**](https://github.com/ajcrod17/42-push_swap) | Algorithmic stack sorting using optimized Turk sort and restricted operations. | <img src="https://img.shields.io/badge/C-Algorithms-A8B9CC?style=flat-square&logo=c&logoColor=white" /> |
