@@ -27,7 +27,9 @@
 | :--- | :--- |
 | **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" /> |
 | **Artificial Intelligence** | <img src="https://img.shields.io/badge/LLMs-Constrained%20Decoding-8A2BE2?style=flat-square" /> <img src="https://img.shields.io/badge/RAG-Vector%20Search-FF6F00?style=flat-square" /> <img src="https://img.shields.io/badge/MCP-Protocol-4B0082?style=flat-square" /> <img src="https://img.shields.io/badge/Function%20Calling-008080?style=flat-square" /> |
-| **Backend & Platforms** | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" /> |
+| **Backend & Platforms** | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/SQLModel-4479A1?style=flat-square" /> <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" /> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" /> |
+| **Frontend & UI** | <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/Fyne-4EAA25?style=flat-square" /> <img src="https://img.shields.io/badge/Pygame-FF69B4?style=flat-square" /> |
+| **Security & Auth** | <img src="https://img.shields.io/badge/OAuth%202.0-4285F4?style=flat-square&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/2FA%20%2F%20MFA-34A853?style=flat-square" /> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" /> |
 | **Tools & Environment** | <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Make-000000?style=flat-square&logo=gnu&logoColor=white" /> |
 
 </div>
@@ -44,6 +46,16 @@
 
 ### 🌟 Highlighted Projects
 
+#### 🏓 [ft_transcendence](https://github.com/ajcrod17/ft_transcendence/tree/main)
+> Full-stack multiplayer gaming platform featuring real-time state synchronization, automated room matchmaking, OAuth/2FA security, relational data persistence, and autonomous game bots.
+
+* Architected full-duplex WebSocket communication protocols managing concurrent game rooms, player disconnect/reconnect lifecycles, and low-latency state replication.
+* Engineered autonomous AI bot opponents with predictive paddle trajectory calculation for single-player fallback and matchmaking filling.
+* Containerized multi-service infrastructure integrating reverse proxying, authentication, PostgreSQL relational modeling, and frontend client interfaces.
+* **Stack:** <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/SQLModel-4479A1?style=flat-square" /> <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/OAuth%202.0%20%2F%202FA-4285F4?style=flat-square" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+
+<br>
+
 #### 🤖 [Agent_Smith](https://github.com/ajcrod17/Agent_Smith)
 > Autonomous AI coding agent and evaluation engine built for sandboxed execution and algorithmic benchmarking.
 
@@ -58,14 +70,14 @@
 
 * Implements agentic workflows leveraging LLM tool-calling, autonomous diagnostics, and containerized microservices.
 * Containerized multi-service environment utilizing Docker Compose for reproducible pipeline execution and documentation benchmarks.
-* **Stack:** <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/SQLModel-4479A1?style=flat-square" /> <img src="https://img.shields.io/badge/MCP-Agent-4B0082?style=flat-square" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+* **Stack:** <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/SQLModel-4479A1?style=flat-square" /> <img src="https://img.shields.io/badge/MCP-Agent-4B0082?style=flat-square" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 
 <br>
 
 #### 🧠 [RAG against the machine](https://github.com/ajcrod17/RAG.git)
 > Codebase interrogation engine utilizing Retrieval-Augmented Generation for grounded question answering.
 
-* Developed intelligent semantic and AST chunking pipelines to ingest enterprise source trees.
+* Developed intelligent semantic and AST chunking pipelines to ingest enterprise source trees.[cite: 6]
 * Combined TF-IDF, BM25, and dense vector similarity algorithms to provide high-precision context retrieval with minimized hallucination.
 * **Stack:** <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/RAG-Pipeline-FF6F00?style=flat-square" /> <img src="https://img.shields.io/badge/Vector%20Search-008080?style=flat-square" /> <img src="https://img.shields.io/badge/LLMs-8A2BE2?style=flat-square" />
 
